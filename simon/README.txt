@@ -1,0 +1,1 @@
+Simon memory game for the r-pi using the GPIO to handle buttons and LEDs
