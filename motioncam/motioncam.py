@@ -22,5 +22,4 @@ class motioncam(object):
 #no need for another file.
 
 mo_cam = motioncam()
-
 mo_cam.start()
