@@ -1,0 +1,1 @@
+a motion detection camera using the gpio a motion detector and a logitec webcam, using fswebcam for the actual image capture.
